@@ -6,8 +6,7 @@ Tujuan proyek inia adalah untuk mengvisualisasikan dan menganalisis data yang di
 [Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view)
 
 ## Streamlit
-Streamlit Cloud : [Bike Sharing Dashboard](http://localhost:8513/](https://annisahasna-bikesharing.streamlit.app/)
-Copy paste the link and open it in Google Chrome
+Streamlit Cloud : [Bike Sharing Dashboard](https://annisahasna-bikesharing.streamlit.app/)
 
 ## Direktori
 - **/Dataset Bike Sharing**: Berisi data yang digunakan dengan format .csv.
